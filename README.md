@@ -1,0 +1,1 @@
+# compress-bwt-rs\n\nBurrows-Wheeler Transform library in Rust.\n\n## Features\n\n- Forward BWT using suffix array construction\n- Inverse BWT using LF-mapping\n- Move-to-front (MTF) transform\n- Run-length encoding for post-BWT data\n- Full pipeline: BWT → MTF → RLE with round-trip\n- Pure Rust, no external dependencies\n\n## License\n\nMIT OR Apache-2.0

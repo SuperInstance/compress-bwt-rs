@@ -1,0 +1,12 @@
+[package]
+name = "compress-bwt-rs"
+version = "0.1.0"
+edition = "2021"
+authors = ["SuperInstance"]
+description = "Burrows-Wheeler Transform: BWT forward/inverse, move-to-front transform, suffix array construction, and run-length post-BWT encoding in pure Rust."
+documentation = "https://docs.rs/compress-bwt-rs"
+repository = "https://github.com/SuperInstance/compress-bwt-rs"
+readme = "README.md"
+keywords = ["bwt", "burrows-wheeler", "mtf", "suffix-array", "compression"]
+categories = ["algorithms", "compression"]
+license = "MIT OR Apache-2.0"
